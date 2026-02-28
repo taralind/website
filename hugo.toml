@@ -1,0 +1,4 @@
+baseURL = 'https://taralind.com'
+languageCode = 'en-us'
+title = 'My Website'
+theme = 'ananke'
