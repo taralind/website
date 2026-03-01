@@ -2,3 +2,7 @@ baseURL = 'https://taralind.com'
 languageCode = 'en-us'
 title = 'My Website'
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
