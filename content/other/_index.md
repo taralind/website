@@ -8,7 +8,9 @@ I also dabble in art for fun. Check it out below!
 
 <details>
 <summary><strong>Film Photos</strong></summary>
-Photos taken with OM-2 or point and shoot film cameras. 
+<hr style="width:0%">
+Photos taken with OM-2 or point and shoot film cameras.
+<hr style="width:0%"> 
 <div class="art-grid">
 <img src="images/IMG_2467.JPG" alt="fp 1">
 <img src="images/F5500024.JPG" alt="fp 2">
@@ -29,7 +31,9 @@ Photos taken with OM-2 or point and shoot film cameras.
 
 <details>
 <summary><strong>Graphic Design</strong></summary>
+<hr style="width:0%">
 Physics-related posters
+<hr style="width:0%">
 <div class="art-grid">
 <img src="images/chromeliquify.jpg" alt="gd 1">
 <img src="images/ENTROPY.jpg" alt="gd 2">
@@ -45,7 +49,9 @@ Physics-related posters
 
 <details>
 <summary><strong>Coding Art</strong></summary>
+<hr style="width:0%">
 Art made in R <a href="https://github.com/taralind/r-art">(code)</a>.
+<hr style="width:0%">
 <div class="art-grid">
 <img src="images/noise1.png" alt="r 1">
 <img src="images/noise2.png" alt="r 2">
