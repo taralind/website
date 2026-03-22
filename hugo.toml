@@ -25,8 +25,8 @@ style = "github-dark"
   info = "Sports Data Science PhD Candidate"
   description = "Tara Lind's personal website"
   keywords = "blog,scientist,personal"
-  avatarurl = "/images/TaraLindpic.jpg"
-  #gravatar = "t.lind@latrobe.edu.au"
+  avatarurl = "images/TaraLindpic.jpg"
+  
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
