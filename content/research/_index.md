@@ -16,4 +16,4 @@ title = 'Research'
 @ [International Symposium on Computer Science in Sport 2025](https://iacssconference.org/#/2025)  
 
 *"Real-time forecasting of AFL game outcomes"*  
-@ [Seminars at Fremantle Football Club and Curtin Institute for Data Science](images/TaraLindHonoursSeminar.pdf)
+@ [Seminars at Fremantle Football Club and Curtin Institute for Data Science](website/images/TaraLindHonoursSeminar.pdf)
