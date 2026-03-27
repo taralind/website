@@ -25,7 +25,7 @@ These are selected projects I've done outside of my PhD project.
 <div class="analysis-item">
   <img class="analysis-image" src="images/honoursimage.png" alt="Honours Presentation title page">
   <div class="analysis-content">
-    <a href="./research/TaraLindHonoursSeminar.pdf" target="_blank">
+    <a href="TaraLindHonoursSeminar.pdf" target="_blank">
       Real-time AFL game outcome prediction
     </a>
     <p>developed an accurate Markov model to predict AFL game outcomes continuously during a game using gameplay and score-based variables, identified “critical periods” marked by large late-game probability shifts, and documented the work in an Honours dissertation.</p>
