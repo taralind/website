@@ -9,8 +9,11 @@ title = 'Research'
 
 ## Talks
 
-[STARS 2025](https://www.ausport.gov.au/services-and-programs/learning-resources/conferences/stars2025)  
-*"Methods for efficient and effective analysis of athlete data"*
+*"Methods for efficient and effective analysis of athlete data"*    
+@ [STARS 2025](https://www.ausport.gov.au/services-and-programs/learning-resources/conferences/stars2025)  
 
-[International Symposium on Computer Science in Sport 2025](https://iacssconference.org/#/2025)  
-*"Estimating an athlete’s performance distribution in multi-trial activities"*
+*"Estimating an athlete’s performance distribution in multi-trial activities"*  
+@ [International Symposium on Computer Science in Sport 2025](https://iacssconference.org/#/2025)  
+
+*"Real-time forecasting of AFL game outcomes"*  
+@ [Seminars at Fremantle Football Club and Curtin Institute for Data Science](TaraLindHonoursSeminar.pdf)

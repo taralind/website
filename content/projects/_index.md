@@ -4,6 +4,8 @@ draft = false
 title = 'Projects'
 +++
 
+These are selected projects I've done outside of my PhD project. 
+
 ## Tools
 
 [Athletics results scraper](https://github.com/taralind/tilastopaja-trial-scraper)     
@@ -19,6 +21,20 @@ title = 'Projects'
 
 
 ## Analyses
+
+<div class="analysis-item">
+  <img class="analysis-image" src="images/honoursimage.png" alt="Honours Presentation title page">
+  <div class="analysis-content">
+    <a href="TaraLindHonoursSeminar.pdf" target="_blank">
+      Real-time AFL game outcome prediction
+    </a>
+    <p>developed an accurate Markov model to predict AFL game outcomes continuously during a game using gameplay and score-based variables, identified “critical periods” marked by large late-game probability shifts, and documented the work in an Honours dissertation.</p>
+    <div class="project-tags">
+      <span class="project-tag">R</span>
+      <span class="project-tag">machine learning</span>
+    </div>
+  </div>
+</div>
 
 <div class="analysis-item">
   <img class="analysis-image" src="images/aflcup.jpg" alt="AFL 2025 Season Simulation project image">
@@ -69,6 +85,7 @@ title = 'Projects'
     </div>
   </div>
 </div>
+
 
 <!-- -
 Basketball shooter problem
