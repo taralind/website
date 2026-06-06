@@ -11,7 +11,7 @@ I also dabble in art for fun. Check it out below!
 <details>
 <summary><strong>Coding Art</strong></summary>
 <hr style="width:0%">
-Art made in R <a href="https://github.com/taralind/r-art">(code)</a>.
+Art made in R <a href="https://github.com/taralind/r-art">(code)</a>
 <hr style="width:0%">
 <div class="art-grid">
 <img src="images/noise1.png" alt="r 1">
@@ -45,6 +45,14 @@ Physics-related posters
 <details>
 <summary><strong>Paintings</strong></summary>
 <div class="art-grid">
+<img src="images/painting1.jpg" alt="p 1">
+<img src="images/painting2.jpg" alt="p 2">
+<img src="images/painting3.jpg" alt="p 3">
+<img src="images/painting4.jpg" alt="p 4">
+<img src="images/painting5.jpg" alt="p 5">
+<img src="images/painting6.jpg" alt="p 6">
+<img src="images/painting7.jpg" alt="p 7">
+<img src="images/painting8.jpg" alt="p 8">
 </div>
 </details>
 
@@ -53,7 +61,7 @@ Physics-related posters
 <details>
 <summary><strong>Film Photos</strong></summary>
 <hr style="width:0%">
-Photos taken with OM-2 or point and shoot film cameras.
+Photos taken with OM-2 or point and shoot film cameras <a (href="https://www.instagram.com/tindfilm")>(instagram)</a>
 <hr style="width:0%"> 
 <div class="art-grid">
 <img src="images/IMG_2467.JPG" alt="fp 1">

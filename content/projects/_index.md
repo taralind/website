@@ -4,7 +4,7 @@ draft = false
 title = 'Projects'
 +++
 
-These are selected projects I've done outside of my PhD project. 
+These are selected projects I've done outside of my main PhD studies and work within institutions. 
 
 ## Tools
 
