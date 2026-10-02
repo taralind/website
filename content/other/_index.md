@@ -61,7 +61,7 @@ Physics-related posters
 <details>
 <summary><strong>Film Photos</strong></summary>
 <hr style="width:0%">
-Photos taken with OM-2 or point and shoot film cameras <a (href="https://www.instagram.com/tindfilm")>(instagram)</a>
+Photos taken with OM-2 or point and shoot film cameras <a href="https://www.instagram.com/tindfilm">(instagram)</a>
 <hr style="width:0%"> 
 <div class="art-grid">
 <img src="images/IMG_2467.JPG" alt="fp 1">

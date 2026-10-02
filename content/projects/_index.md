@@ -4,7 +4,25 @@ draft = false
 title = 'Projects'
 +++
 
-These are selected projects I've done outside of my main PhD studies and work within institutions. 
+
+## Computer vision
+
+<div class="analysis-item">
+  <img class="analysis-image" src="images/boxing.png" alt="Boxer CV detections">
+  <div class="analysis-content">
+    <a href="https://github.com/taralind/boxing-cv-app">Boxer position tracker</a>
+    <p>turning boxing match video into a csv of each boxer's frame-by-frame coordinates on the ring</p>
+  </div>
+</div>
+
+<div class="analysis-item">
+  <img class="analysis-image" src="images/climbing.png" alt="Climbing detections">
+  <div class="analysis-content">
+    <a href="https://medium.com/@taralind37/turning-speed-climbing-broadcast-footage-into-performance-data-8b227c4d3ab1">Speed climbing analysis</a>
+    <p>pose estimation of speed climbers and camera calibration to extract wall positions and velocities</p>
+  </div>
+</div>
+
 
 ## Tools
 
@@ -13,6 +31,9 @@ These are selected projects I've done outside of my main PhD studies and work wi
 
 [Shotgun results scraper](https://github.com/taralind/issf-shotgun-scraper)       
 *code to scrape shot-by-shot shooting competition results from the ISSF website* 
+
+
+## Tutorials 
 
 [Tutorial on Bayesian updating](https://github.com/taralind/bayesian-updating-tutorial)      
 *tutorial for performing Bayesian updating with Bayes factors for sample size estimation in research studies*
